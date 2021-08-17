@@ -6,15 +6,15 @@ The dataset is taken from kaggle
 
 ## Dataset Explanation 
 
-- 1). Contains Medical information about different peoples
-- 2). Contains Information regrding the brest tissue
-- 3). Dataset is nomalized & nearly balanced
-- 4). Since it is a medical data, generating more points is not good practice
+- 1) Contains Medical information about different peoples
+- 2) Contains Information regrding the brest tissue
+- 3) Dataset is nomalized & nearly balanced
+- 4) Since it is a medical data, generating more points is not good practice
 
 ## About the model
 
-- 1). Triend Different algorithms to make a model
-- 2). The balancing was not a problem in any model
+- 1) Triend Different algorithms to make a model
+- 2) The balancing was not a problem in any model
 - 3) Finally xgboost gave the best results
 
 ## The Conclusion
